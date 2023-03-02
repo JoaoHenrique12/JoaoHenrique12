@@ -14,11 +14,11 @@
   "Frontend"             : ["HTML", "CSS", "JS Vanilla"],
   "Designer skills"      : [{"Image edition": "GIMP"}, {"Video edition": "Kdenlive"}],
   
-  "DevOps skills"        : ["GIT", "Docker", "Docker-Compose"],
-  "Agile skills"         : ["Scrum", "Kanban", "XP"],
+  "DevOps"               : ["GIT", "Docker", "Docker-Compose"],
+  "Agile"                : ["Scrum", "Kanban", "XP"],
   
-  "Pythonis skills"      : ["regex", "web scrapping"],
-  "Coding skills"        : ["Data Structures", "Graph Theory", "Dynamic Programming", "Design Patterns"],
+  "Pythonis"             : ["regex", "web scrapping"],
+  "Coding"               : ["Data Structures", "Graph Theory", "Dynamic Programming", "Design Patterns"],
   
   "Text Editor"          : ["Nvim", "VSCode"],
   "Spend my time with"   : ["Metal Gear", "The witcher", "CS:GO"]
