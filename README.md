@@ -1,3 +1,27 @@
-# 🎮 Greatings
+# Greatings
 
-![](https://camo.githubusercontent.com/59bf57cede48d2f0e9ca0d2e2c736ddca4e18a3c5049ad08f6b517070f56ded2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f584971435178303245315539572f67697068792e676966)
+## About me
+
+```json
+{
+  "Name"                 : "João Henrique",
+  "Age"                  : 23,
+  
+  "Programming languages": ["python", "cpp", "c"],
+  "Databases"            : ["Postgres", "Mysql"],
+  
+  "Backend"              : ["Django", "Flask"],
+  "Frontend"             : ["HTML", "CSS", "JS Vanilla"],
+  "Designer skills"      : [{"Image edition": "GIMP"}, {"Video edition": "Kdenlive"}],
+  
+  "DevOps skills"        : ["GIT", "Docker", "Docker-Compose"],
+  "Agile skills"         : ["Scrum", "Kanban", "XP"],
+  
+  "Pythonis skills"      : ["regex", "web scrapping"],
+  "Coding skills"        : ["Data Structures", "Graph Theory", "Dynamic Programming", "Design Patterns"],
+  
+  "Text Editor"          : ["Nvim", "VSCode"],
+  "Spend my time with"   : ["Metal Gear", "The witcher", "CS:GO"]
+}
+
+```
