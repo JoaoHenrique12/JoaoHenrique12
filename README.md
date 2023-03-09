@@ -1,4 +1,4 @@
-# Greatings
+# Greetings
 
 ## About me
 
