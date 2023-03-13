@@ -61,9 +61,3 @@ When my interior designer comes out I use this repository.
 
 - Frontend
 - Designer Skills
-
-## About my english
-
-I had some classes with professor 
-[Joel Saint Anna](https://www.google.com/search?q=joel+santana+falando+ingl%C3%AAs&oq=joel&aqs=chrome.2.69i57j46i131i433i512j69i59j0i67j46i67i433j46i67l3j0i131i433i512j46i433i512.3217j1j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:bff6703a,vid:BoxA9ghHkOM), 
-I can't speak a lot but can handle technical documentation about any theme in software development.
