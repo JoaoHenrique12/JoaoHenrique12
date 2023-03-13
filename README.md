@@ -57,7 +57,7 @@ about GIT and DevOps. Along it I had configured a pipeline to a library project.
 - DevOps
 ### [Mastering Frontend](https://github.com/JoaoHenrique12/mastering_frontend)
 
-When my interior designer comes out I use this repository.
+The main objective here is training HTML, CSS and pure JS.
 
 - Frontend
 - Designer Skills
