@@ -49,6 +49,16 @@ The main difference in my project is: I used CS:GO players and scrapped data fro
 - Pythonic
 - Coding
 - Backend
+
+### [Beecrowd postgresql](https://github.com/JoaoHenrique12/beecrowd_postgresql)
+
+In this repository there is the solution for all questions about sql in online judmentge 
+[beecrowd](https://www.beecrowd.com.br/judge/pt/problems/index/9). All problems was solved
+using a container with postgresql.
+
+- Databases
+- DevOps
+
 ### [Library Docker](https://github.com/JoaoHenrique12/library_docker)
 
 Software Management and Configuration was a interessant class, wich aim in increase studant's capabilities
