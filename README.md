@@ -23,7 +23,20 @@
   "Coding"               : ["Data Structures", "Graph Theory", "Dynamic Programming", "Design Patterns"],
   
   "Text Editor"          : ["Nvim", "VSCode"],
-  "Spend my time with"   : ["Metal Gear", "The witcher", "CS:GO"]
+  "Spend my time with"   : ["Metal Gear", "The witcher", "CS:GO"],
+  
+  "Academic"             : [
+              {
+                "Instituition" : "Universidade de Brasília",
+                "Title" : "Engenheiro de Software",
+                "Activities" : ["Monitor de Algoritmos e Programação de Computadores", "Monitor de Estruturas de Dados 1"]
+               },
+               {
+                 "Instituition" : "IF Goiano, Câmpus Ceres",
+                 "Title" : "Técnico em informática integrado ao ensino médio",
+                 "Activities" : ["Monitor de Matemática 1"]
+               }
+  ]
 }
 
 ```
