@@ -27,11 +27,11 @@
   
   "Academic"             : [
               {
-                "Instituition" : "Universidade de Brasília",
+                "Institution" : "Universidade de Brasília",
                 "Title" : "Engenheiro de Software",
                },
                {
-                 "Instituition" : "IF Goiano, Câmpus Ceres",
+                 "Institution" : "IF Goiano, Câmpus Ceres",
                  "Title" : "Técnico em informática integrado ao ensino médio"
                }
   ]
