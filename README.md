@@ -29,7 +29,8 @@
               {
                 "Instituition" : "Universidade de Brasília",
                 "Title" : "Engenheiro de Software",
-                "Activities" : ["Monitor de Algoritmos e Programação de Computadores", "Monitor de Estruturas de Dados 1"]
+                "Activities" : ["Monitor de Algoritmos e Programação de Computadores",
+                                "Monitor de Estruturas de Dados 1"]
                },
                {
                  "Instituition" : "IF Goiano, Câmpus Ceres",
