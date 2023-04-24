@@ -29,13 +29,10 @@
               {
                 "Instituition" : "Universidade de Brasília",
                 "Title" : "Engenheiro de Software",
-                "Activities" : ["Monitor de Algoritmos e Programação de Computadores",
-                                "Monitor de Estruturas de Dados 1"]
                },
                {
                  "Instituition" : "IF Goiano, Câmpus Ceres",
-                 "Title" : "Técnico em informática integrado ao ensino médio",
-                 "Activities" : ["Monitor de Matemática 1"]
+                 "Title" : "Técnico em informática integrado ao ensino médio"
                }
   ]
 }
