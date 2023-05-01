@@ -17,7 +17,7 @@
   "Designer skills"      : [{"Image edition": "GIMP"}, {"Video edition": "Kdenlive"}],
   
   "DevOps"               : ["Docker", "Docker-Compose"],
-  "Agile"                : ["Scrum", "Kanban", "XP"],
+  "Agile"                : ["Scrum", "Kanban", "XP", "TDD"],
   
   "Pythonic"             : ["regex", "web scrapping"],
   "Coding"               : ["Data Structures", "Graph Theory", "Dynamic Programming", "Design Patterns"],
