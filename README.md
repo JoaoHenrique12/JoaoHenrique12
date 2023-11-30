@@ -14,7 +14,6 @@
   
   "Backend"              : ["Django", "Flask"],
   "Frontend"             : ["HTML", "CSS", "JS Vanilla"],
-  "Designer skills"      : [{"Image edition": "GIMP"}, {"Video edition": "Kdenlive"}],
   
   "DevOps"               : ["Docker", "Docker-Compose"],
   "Agile"                : ["Scrum", "Kanban", "XP", "TDD"],
@@ -83,4 +82,3 @@ about GIT and DevOps. Along it I had configured a pipeline to a library project.
 The main objective here is training HTML, CSS and pure JS.
 
 - Frontend
-- Designer Skills
