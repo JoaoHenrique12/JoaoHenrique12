@@ -26,11 +26,11 @@ By the way, almost all code present in this project was developed using <a href=
 - DevOps
 
 ### [CS:GO connections](https://github.com/projeto-de-algoritmos/Grafos1_csgo_connections)
-
+<p align="justify">
 Into college I frequentate some classes about algorithm projects, learned a lot about Graphs,
-and build a project inspired in [Kevin Bacon's problem](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon).
-The main difference in my project is: I used CS:GO players and scrapped data from [hltv](https://www.hltv.org/).
-
+and build a project inspired in <a href="https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon">Kevin Bacon's problem</a>.
+The main difference in my project is: I used CS:GO players and scrapped data from <a href="https://www.hltv.org/">hltv</a>.
+</p>
 - Pythonic
 - Coding
 - Backend
@@ -45,26 +45,31 @@ The main objective here is training HTML, CSS and pure JS.
 
 ### [Beecrowd postgresql](https://github.com/JoaoHenrique12/beecrowd_postgresql)
 
+<p align="justify">
 In this repository there is the solution for all questions about sql in online judmentge 
-[beecrowd](https://www.beecrowd.com.br/judge/pt/problems/index/9). All problems was solved
+<a href="https://www.beecrowd.com.br/judge/pt/problems/index/9">beecrowd</a>. All problems was solved
 using a container with postgresql.
+</p>
 
 - Databases
 - DevOps
 
 ### [Library Docker](https://github.com/JoaoHenrique12/library_docker)
 
+<p align="justify">
 Software Management and Configuration was a interessant class, wich aim in increase studant's capabilities
 about GIT and DevOps. Along it I had configured a pipeline to a library project. 
+</p>
 
 - DevOps
 
 ### [ArBC](https://github.com/fga-eps-mds/2019.2-ArBC)
-
+<p align="justify">
 ArBC was the first big project wich I got into. His purpose is help kids to associate words to real world objects.
 To build it,with all eight members understanding it's project dynamic, we had to use a lot of principles of Scrum
 and Agile, like: sprint review, sprint planning, dailys, burn down graph (based on planning poker of issues),
 XP (extreme programming), tests, etc. And of course my git knowledge after that grow a lot.
+</p>
 
 - Agile
 - Programming Languages
