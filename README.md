@@ -44,6 +44,7 @@ Into college I frequentate some classes about algorithm projects, learned a lot 
 and build a project inspired in <a href="https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon">Kevin Bacon's problem</a>.
 The main difference in my project is: I used CS:GO players and scrapped data from <a href="https://www.hltv.org/">hltv</a>.
 </p>
+
 - Pythonic
 - Coding
 - Backend
