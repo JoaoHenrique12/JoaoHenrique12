@@ -10,13 +10,15 @@
 
 ### [Naruto Fandom Scraping](https://github.com/JoaoHenrique12/naruto_fandom_scraping)
 
-Is a [web scrapper](https://en.wikipedia.org/wiki/Web_scraping) to gather data from 
-[Naruto fandom pt-BR](https://naruto.fandom.com/pt-br/wiki/Categoria:Ninjutsu) and 
+<p align="justify" >
+Is a <a href="https://en.wikipedia.org/wiki/Web_scraping">web scrapper</a> to gather data from 
+<a href="https://naruto.fandom.com/pt-br/wiki/Categoria:Ninjutsu">Naruto fandom pt-BR</a> and 
 store it into a postgres database. 
-The integration of web scraping, PostgreSQL, [schemaspy](https://github.com/schemaspy/schemaspy),
-and [pgAdmin](https://www.pgadmin.org/) formed a comprehensive workflow for data retrieval, storage,
+The integration of web scraping, PostgreSQL, <a href="https://github.com/schemaspy/schemaspy">schemaspy</a>,
+and <a href="https://www.pgadmin.org/">pgAdmin</a> formed a comprehensive workflow for data retrieval, storage,
 and database management. 
-By the way, almost all code present in this project was developed using [TDD](https://en.wikipedia.org/wiki/Test-driven_development).
+By the way, almost all code present in this project was developed using <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a>.
+</p>
 
 - Pythonic
 - Database
