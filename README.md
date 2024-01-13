@@ -25,6 +25,19 @@ By the way, almost all code present in this project was developed using <a href=
 - Agile
 - DevOps
 
+### [WikiBook](https://github.com/JoaoHenrique12/WikiBook)
+<p align="justify">
+The initial idea was to build a social network for individuals who read Wikipedia articles. The 'algorithm' would connect people with similar interests in articles. Therefore, a module of the project would involve a program to extract metadata from a series of Wikipedia pages. These metadata would assist in matching users within the social network.
+</p>
+
+<p align="justify">
+WikiBook is an unfinished project, but it has some noteworthy features: User Authentication, Django Signals, Selenium and Factory Boy for test creation.
+</p>
+
+- Pythonic
+- Backend
+- Database
+
 ### [CS:GO connections](https://github.com/projeto-de-algoritmos/Grafos1_csgo_connections)
 <p align="justify">
 Into college I frequentate some classes about algorithm projects, learned a lot about Graphs,
