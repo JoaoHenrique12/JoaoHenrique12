@@ -14,16 +14,8 @@
 Is a <a href="https://en.wikipedia.org/wiki/Web_scraping">web scrapper</a> to gather data from 
 <a href="https://naruto.fandom.com/pt-br/wiki/Categoria:Ninjutsu">Naruto fandom pt-BR</a> and 
 store it into a postgres database. 
-The integration of web scraping, PostgreSQL, <a href="https://github.com/schemaspy/schemaspy">schemaspy</a>,
-and <a href="https://www.pgadmin.org/">pgAdmin</a> formed a comprehensive workflow for data retrieval, storage,
-and database management. 
-By the way, almost all code present in this project was developed using <a href="https://en.wikipedia.org/wiki/Test-driven_development">TDD</a>.
 </p>
 
-- Pythonic
-- Database
-- Agile
-- DevOps
 
 ### [WikiBook](https://github.com/JoaoHenrique12/WikiBook)
 <p align="justify">
@@ -34,11 +26,6 @@ The initial idea was to build a social network for individuals who read Wikipedi
 WikiBook is an unfinished project, but it has some noteworthy features: User Authentication, Django Signals, Selenium and Factory Boy for test creation.
 </p>
 
-- Pythonic
-- Backend
-- Frontend
-- Database
-
 ### [CS:GO connections](https://github.com/projeto-de-algoritmos/Grafos1_csgo_connections)
 <p align="justify">
 Into college I frequentate some classes about algorithm projects, learned a lot about Graphs,
@@ -46,16 +33,10 @@ and build a project inspired in <a href="https://en.wikipedia.org/wiki/Six_Degre
 The main difference in my project is: I used CS:GO players and scrapped data from <a href="https://www.hltv.org/">hltv</a>.
 </p>
 
-- Pythonic
-- Coding
-- Backend
-
 
 ### [Mastering Frontend](https://github.com/JoaoHenrique12/mastering_frontend)
 
 The main objective here is training HTML, CSS and pure JS.
-
-- Frontend
 
 
 ### [Beecrowd postgresql](https://github.com/JoaoHenrique12/beecrowd_postgresql)
@@ -66,9 +47,6 @@ In this repository there is the solution for all questions about sql in online j
 using a container with postgresql.
 </p>
 
-- Databases
-- DevOps
-
 ### [Library Docker](https://github.com/JoaoHenrique12/library_docker)
 
 <p align="justify">
@@ -76,7 +54,6 @@ Software Management and Configuration was a interessant class, wich aim in incre
 about GIT and DevOps. Along it I had configured a pipeline to a library project. 
 </p>
 
-- DevOps
 
 ### [ArBC](https://github.com/fga-eps-mds/2019.2-ArBC)
 <p align="justify">
@@ -85,11 +62,6 @@ To build it,with all eight members understanding it's project dynamic, we had to
 and Agile, like: sprint review, sprint planning, dailys, burn down graph (based on planning poker of issues),
 XP (extreme programming), tests, etc. And of course my git knowledge after that grow a lot.
 </p>
-
-- Agile
-- Programming Languages
-- Frontend
-- Backend
 
 ## About me
 
@@ -105,7 +77,7 @@ XP (extreme programming), tests, etc. And of course my git knowledge after that 
   "Frontend"             : ["HTML", "CSS", "JS Vanilla"],
   
   "DevOps"               : ["Docker", "Docker-Compose"],
-  "Agile"                : ["Scrum", "Kanban", "XP", "TDD"],
+  "Agile"                : ["Scrum", "Kanban", "XP"],
   
   "Pythonic"             : ["regex", "web scrapping"],
   "Coding"               : ["Data Structures", "Graph Theory", "Dynamic Programming", "Design Patterns"],
