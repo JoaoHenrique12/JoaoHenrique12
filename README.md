@@ -8,6 +8,21 @@
 
 ## Projects
 
+### [Naruto Fandom Scraping](https://github.com/JoaoHenrique12/naruto_fandom_scraping)
+
+Is a [web scrapper](https://en.wikipedia.org/wiki/Web_scraping) to gather data from 
+[Naruto fandom pt-BR](https://naruto.fandom.com/pt-br/wiki/Categoria:Ninjutsu) and 
+store it into a postgres database. 
+The integration of web scraping, PostgreSQL, [schemaspy](https://github.com/schemaspy/schemaspy),
+and [pgAdmin](https://www.pgadmin.org/) formed a comprehensive workflow for data retrieval, storage,
+and database management. 
+By the way, almost all code present in this project was developed using [TDD](https://en.wikipedia.org/wiki/Test-driven_development).
+
+- Pythonic
+- Database
+- Agile
+- DevOps
+
 ### [CS:GO connections](https://github.com/projeto-de-algoritmos/Grafos1_csgo_connections)
 
 Into college I frequentate some classes about algorithm projects, learned a lot about Graphs,
@@ -61,7 +76,7 @@ XP (extreme programming), tests, etc. And of course my git knowledge after that 
   "Name"                 : "João Henrique",
   "Age"                  : 23,
   
-  "Programming languages": ["python", "cpp", "c"],
+  "Main languages"       : ["python", "cpp", "c"],
   "Databases"            : ["Postgres", "Mysql"],
   
   "Backend"              : ["Django", "Flask"],
@@ -73,7 +88,7 @@ XP (extreme programming), tests, etc. And of course my git knowledge after that 
   "Pythonic"             : ["regex", "web scrapping"],
   "Coding"               : ["Data Structures", "Graph Theory", "Dynamic Programming", "Design Patterns"],
   
-  "Text Editor"          : ["Nvim", "VSCode"],
+  "Text Editor"          : ["AstroNvim", "VSCode"],
   "Spend my time with"   : ["Metal Gear", "The witcher", "CS:GO"],
   
   "Academic"             : [
