@@ -36,6 +36,7 @@ WikiBook is an unfinished project, but it has some noteworthy features: User Aut
 
 - Pythonic
 - Backend
+- Frontend
 - Database
 
 ### [CS:GO connections](https://github.com/projeto-de-algoritmos/Grafos1_csgo_connections)
