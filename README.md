@@ -34,7 +34,7 @@ The main difference in my project is: I used CS:GO players and scrapped data fro
 </p>
 
 
-## [Mastering Frontend](https://github.com/JoaoHenrique12/mastering_frontend)
+## [Scratching Frontend](https://github.com/JoaoHenrique12/scratching_frontend)
 
 The main objective here is training HTML, CSS and pure JS.
 
