@@ -16,6 +16,12 @@ Is a <a href="https://en.wikipedia.org/wiki/Web_scraping">web scrapper</a> to ga
 store it into a postgres database. 
 </p>
 
+## [Kd o Jutsu](https://github.com/JoaoHenrique12/kd_o_jutsu)
+
+<p align="justify" >
+Is a website that allows the search for jutsus by name or by the seals contained in their execution.
+</p>
+
 
 ## [WikiBook](https://github.com/JoaoHenrique12/WikiBook)
 <p align="justify">
